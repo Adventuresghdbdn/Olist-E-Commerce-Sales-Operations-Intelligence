@@ -22,7 +22,7 @@
 Analyze the **Olist Brazilian E-Commerce dataset** to understand sales, customers, product categories, logistics, delivery performance, freight cost and customer satisfaction, and present the findings in a live dashboard.
 
 - Built an **end-to-end business analytics pipeline** using Python, SQL Server and Plotly Dash.
-- Focused on **practical business insights**, not machine learning or NLP.
+- Focused on **practical business insights**
 
 <p align="center">
   <img src="images/dashboard_page1.png" alt="Olist E-Commerce Intelligence dashboard" width="640"/>
